@@ -23,7 +23,7 @@
         <br>
         <p>
             <strong>
-		    Hello My Name IS Dhandi Adam
+		    Hello My Name IS M Rivaldi Ys
 		    <br><br>
                 Mobile Apps Student, Back-End Engineer,Freelancer<br><br>
                 I specialize in Java,C++,Golang and Microsoft SQL Server and I have experience working . Good in Algorithms, Database Systems, Object-Oriented Programming, .<br><br>
